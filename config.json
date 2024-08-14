@@ -1,0 +1,9 @@
+{
+    "feeds": [
+      {
+        "url": "https://politepol.com/fd/eXvyNUwvy4M1.xml",
+        "num_entries": "all",
+        "update_frequency": 3600
+      }
+    ]
+  }
